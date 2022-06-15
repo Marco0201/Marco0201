@@ -1,9 +1,5 @@
 ### Hey there, I'm Marco Perez 👋
 
-<!--
-**Marco0201/Marco0201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on React projects.
 - 🌱 I’m currently learning React and React Components.
@@ -13,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Linkedin[www.linkedin.com/in/marco-perez02] 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a first time cat owner :cat2:.
--->
+
