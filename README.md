@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Any react projects.
 - 🤔 I’m looking for help with Backend stacks.
 - 💬 Ask me about Python.
-- 📫 How to reach me: Linkedin[www.linkedin.com/in/marco-perez02] 
+- 📫 How to reach me: Linkedin(www.linkedin.com/in/marco-perez02) 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a first time cat owner :cat2:.
 
