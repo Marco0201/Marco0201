@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://marco-webportfolio.netlify.app/](https://marco-webportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available on my [portfolio](https://marco-webportfolio.netlify.app/)
 
 - 💬 Ask me about **Html, Css, Python**
 
