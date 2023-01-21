@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marco0201" alt="marco0201" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/software_marco" target="blank"><img src="https://img.shields.io/twitter/follow/software_marco?logo=twitter&style=for-the-badge" alt="software_marco" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/software_marco" target="blank"><img src="https://img.shields.io/twitter/follow/software_marco?logo=twitter&style=for-the-badge" alt="software_marco" /></a> </p> Twitter closing down their developer API for all 3rd party clients -->
 
 - 🔭 I’m currently working on [My micro-mobility website](https://micro-mobile.netlify.app/)
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available on my [portfolio](https://marco-webportfolio.netlify.app/)
 
-- 💬 Ask me about **Html, Css, Python**
+- 💬 Ask me about **Html, Css, React, Python**
 
 - 📫 How to reach me **marcoperez.software@gmail.com**
 
