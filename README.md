@@ -31,6 +31,7 @@
 <h3 align="left">Codewars Rank:</h3>
 <p><img align="center" src="https://www.codewars.com/users/Marco0201/badges/large" alt="marco0201" /></p>
 
+<h3 align="left">Github Info:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Marco0201&show_icons=true&locale=en&layout=compact" alt="marco0201" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Marco0201&show_icons=true&locale=en" alt="Marco-0201" /></p>
