@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [My micro-mobility website](https://micro-mobile.netlify.app/)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React, Javascript, Python, Html, Css**
 
 - 👨‍💻 All of my projects are available on my [portfolio](https://marco-webportfolio.netlify.app/)
 
