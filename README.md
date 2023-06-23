@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/software_marco" target="blank"><img src="https://img.shields.io/twitter/follow/software_marco?logo=twitter&style=for-the-badge" alt="software_marco" /></a> </p>
 
-- 🔭 I’m currently working on [My micro-mobility website](https://micro-mobile.netlify.app/)
+- 🔭 I’m currently working on [My Blog website](https://marco020.pythonanywhere.com/)
 
 - 🌱 I’m currently learning **React, Javascript, Python, Html, Css**
 
