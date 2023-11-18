@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/software_marco" target="blank"><img src="https://img.shields.io/twitter/follow/software_marco?logo=twitter&style=for-the-badge" alt="software_marco" /></a> </p>
 
-- 🔭 I’m currently working on [My Blog website](https://marco020.pythonanywhere.com/)
+- 🔭 I’m currently working on [Network Hunt](https://www.networkhunt.net/)
 
-- 🌱 I’m currently learning **React, Javascript, Python, Html, Css**
+- 🌱 I’m currently learning **React, Javascript, Python, Html, Css, Django**
 
 - 👨‍💻 All of my projects are available on my [portfolio](https://marco-webportfolio.netlify.app/)
 
-- 💬 Ask me about **Html, Css, React, Python**
+- 💬 Ask me about **Html, Css, React, Python, Django**
 
 - 📫 How to reach me **marcoperez.software@gmail.com**
 
